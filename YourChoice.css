@@ -13,3 +13,8 @@ img{
     margin-left: 400px;
 	
 }
+body{
+	background-image: url(lb.PNG);
+	background-repeat:no-repeat;
+	background-size: 1400px 900px;
+}
